@@ -1,0 +1,1 @@
+{"name":"Local: timon_and_pumba","url":"d:\\Phitron\\7. Loop and nested loop\\timon_and_pumba.c","tests":[{"id":1681206946440,"input":"9 1","output":"8"},{"id":1681206954330,"input":"1 9","output":"0"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Phitron\\7. Loop and nested loop\\timon_and_pumba.c","group":"local","local":true}

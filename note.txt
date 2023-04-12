@@ -1,0 +1,6 @@
+# i++ -> Post increament. If i=10 and x=i++, then i=11 and x=10
+# ++i -> Pre increament. If i=10 and x=++i, then i=11 and x=11
+# i-- -> Post decreament. If i=10 and x=i--, then i=9 and x=10
+# --i -> Pre decreament. If i=10 and x=--i, then i=9 and x=9
+
+problem list: https://docs.google.com/document/d/1QIHemg4l8-HoEh-b_gpYNfFtrB-u9ZCOCs9kKyWUUao/edit

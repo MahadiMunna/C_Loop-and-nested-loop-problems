@@ -1,0 +1,1 @@
+{"name":"Local: lucky_numbers","url":"d:\\Phitron\\7. Loop and nested loop\\lucky_numbers.c","tests":[{"id":1681207233284,"input":"21","output":"YES"},{"id":1681207240538,"input":"73","output":"NO"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Phitron\\7. Loop and nested loop\\lucky_numbers.c","group":"local","local":true}
